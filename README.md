@@ -1,4 +1,4 @@
-<img align="centre" alt="coding" width="200" src="https://i.imgur.com/GizQ5of.jpeg" >
+<img align="centre" alt="coding" width="1200" src="https://i.imgur.com/GizQ5of.jpeg" >
 
 <h1 align="center">Hey, I'm Safwan</h1>
 <h3 align="center">Student at FAST Islamabad, currently enrolled in BS (Artificial Intelligence)</h3>
