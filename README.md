@@ -1,6 +1,6 @@
 <img align="centre" alt="coding" width="1200" src="https://i.imgur.com/GizQ5of.jpeg" >
 
-<h1 align="center">Hey, I'm Safwan</h1>
+<h1 align="center">cout << "Hello World";</h1>
 <h3 align="center">Student at FAST Islamabad, currently enrolled in BS (Artificial Intelligence)</h3>
 
 <img align="right" alt="coding" width="200" src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-555.gif" >
