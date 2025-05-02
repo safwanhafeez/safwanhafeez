@@ -1,8 +1,6 @@
-# <div align="center">👨‍💻 Safwan Hafeez</div>
-
 <div align="center">
   <img src="https://i.imgur.com/GizQ5of.jpeg" width="800" alt="coding banner">
-  <h3>BS Artificial Intelligence Student @ FAST Islamabad</h3>
+  <h2>BS Artificial Intelligence Student @ FAST Islamabad</h2>
   
   <div style="background-color: #1e1e1e; padding: 10px; border-radius: 5px; display: inline-block; margin-top: 10px;">
     <a href="https://linkedin.com/in/safwan-hafeez" style="background-color: #2d333b; color: white; padding: 5px 10px; text-decoration: none; margin-right: 5px; border-radius: 3px;">
@@ -19,11 +17,29 @@
 
 <img align="right" alt="coding" width="220" src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-555.gif" style="margin-left: 20px">
 
-## 🚀 About Me
-- 🌱 Currently learning **C# and Java**
-- 💬 Ask me about **Python, Flask, C++**
-- 🤖 Passionate about AI, Machine Learning, and Software Development
-- 🔍 Looking to collaborate on innovative AI projects
+## 🧠 Exploring the Digital Frontier
+
+<div style="background-color: #1e1e1e; border-radius: 10px; padding: 20px; margin: 20px 0;">
+  <div style="display: flex; align-items: center; margin-bottom: 15px;">
+    <span style="background-color: #61dafb; padding: 8px; border-radius: 50%; margin-right: 15px;">🚀</span>
+    <span>Crafting AI solutions that bridge imagination and reality</span>
+  </div>
+  
+  <div style="display: flex; align-items: center; margin-bottom: 15px;">
+    <span style="background-color: #6c5ce7; padding: 8px; border-radius: 50%; margin-right: 15px;">💡</span>
+    <span>Ask me about my adventures with <b>Python</b>, <b>Flask</b>, and <b>C++</b></span>
+  </div>
+  
+  <div style="display: flex; align-items: center; margin-bottom: 15px;">
+    <span style="background-color: #00b894; padding: 8px; border-radius: 50%; margin-right: 15px;">📚</span>
+    <span>Currently expanding my toolkit with <b>C#</b> and <b>Java</b></span>
+  </div>
+  
+  <div style="display: flex; align-items: center;">
+    <span style="background-color: #fd79a8; padding: 8px; border-radius: 50%; margin-right: 15px;">🔗</span>
+    <span>Seeking collaborators for breakthrough AI projects that challenge the status quo</span>
+  </div>
+</div>
 
 ## 💻 Tech Stack
 
@@ -95,10 +111,4 @@
   </div>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=safwanhafeez&theme=tokyonight" alt="safwanhafeez" style="width: 100%;" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=safwanhafeez&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
