@@ -4,12 +4,20 @@
   <img src="https://i.imgur.com/GizQ5of.jpeg" width="800" alt="coding banner">
   <h3>BS Artificial Intelligence Student @ FAST Islamabad</h3>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-safwan--hafeez-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/safwan-hafeez)
-  [![Kaggle](https://img.shields.io/badge/Kaggle-safwanhafeez-20BEFF?style=flat-square&logo=kaggle)](https://kaggle.com/safwanhafeez)
-  [![Email](https://img.shields.io/badge/Email-safwan.hafeez05%40gmail.com-red?style=flat-square&logo=gmail)](mailto:safwan.hafeez05@gmail.com)
+  <div style="background-color: #1e1e1e; padding: 10px; border-radius: 5px; display: inline-block; margin-top: 10px;">
+    <a href="https://linkedin.com/in/safwan-hafeez" style="background-color: #2d333b; color: white; padding: 5px 10px; text-decoration: none; margin-right: 5px; border-radius: 3px;">
+      <span style="background-color: #0077b5; padding: 2px 5px; border-radius: 3px;">LinkedIn</span> safwan-hafeez
+    </a>
+    <a href="https://kaggle.com/safwanhafeez" style="background-color: #2d333b; color: white; padding: 5px 10px; text-decoration: none; margin-right: 5px; border-radius: 3px;">
+      <span style="background-color: #20BEFF; padding: 2px 5px; border-radius: 3px;">Kaggle</span> safwanhafeez
+    </a>
+    <a href="mailto:safwan.hafeez05@gmail.com" style="background-color: #2d333b; color: white; padding: 5px 10px; text-decoration: none; border-radius: 3px;">
+      <span style="background-color: #EA4335; padding: 2px 5px; border-radius: 3px;">Email</span> safwan.hafeez05@gmail.com
+    </a>
+  </div>
 </div>
 
-<img align="right" alt="coding" width="280" src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-555.gif">
+<img align="right" alt="coding" width="220" src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-555.gif" style="margin-left: 20px">
 
 ## 🚀 About Me
 - 🌱 Currently learning **C# and Java**
@@ -30,11 +38,14 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -48,10 +59,42 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=safwanhafeez&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="safwanhafeez" />
+<div>
+  <!-- GitHub Stats Card -->
+  <div align="center" style="margin-bottom: 20px">
+    <!-- Custom Stats Card similar to Image 1 -->
+    <div style="background-color: #0d1117; border-radius: 6px; padding: 16px; width: 100%; margin-bottom: 16px;">
+      <h3 style="color: #58a6ff; margin-bottom: 16px;">Most Used Languages</h3>
+      <div style="background-color: #161b22; border-radius: 6px; padding: 16px;">
+        <div style="display: flex; align-items: center; margin-bottom: 8px;">
+          <span style="color: #f783ac; margin-right: 8px;">●</span>
+          <span style="color: #c9d1d9;">C++ 69.14%</span>
+        </div>
+        <div style="display: flex; align-items: center; margin-bottom: 8px;">
+          <span style="color: #9775fa; margin-right: 8px;">●</span>
+          <span style="color: #c9d1d9;">CSS 9.06%</span>
+        </div>
+        <div style="display: flex; align-items: center; margin-bottom: 8px;">
+          <span style="color: #fa5252; margin-right: 8px;">●</span>
+          <span style="color: #c9d1d9;">HTML 8.50%</span>
+        </div>
+        <div style="display: flex; align-items: center; margin-bottom: 8px;">
+          <span style="color: #ffd43b; margin-right: 8px;">●</span>
+          <span style="color: #c9d1d9;">JavaScript 7.90%</span>
+        </div>
+        <div style="display: flex; align-items: center; margin-bottom: 8px;">
+          <span style="color: #ff922b; margin-right: 8px;">●</span>
+          <span style="color: #c9d1d9;">Jupyter Notebook 3.02%</span>
+        </div>
+        <div style="display: flex; align-items: center;">
+          <span style="color: #ff6b6b; margin-right: 8px;">●</span>
+          <span style="color: #c9d1d9;">CMake 2.38%</span>
+        </div>
+      </div>
+    </div>
+  </div>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safwanhafeez&theme=tokyonight" alt="safwanhafeez" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safwanhafeez&theme=tokyonight" alt="safwanhafeez" style="width: 100%;" />
 </div>
 
 ---
