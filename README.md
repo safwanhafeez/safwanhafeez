@@ -1,23 +1,17 @@
-# <div align="center">👨‍💻 Safwan Hafeez</div>
-
 <div align="center">
   <img src="https://i.imgur.com/GizQ5of.jpeg" width="800" alt="coding banner">
-  <h3>BS Artificial Intelligence Student @ FAST Islamabad</h3>
+  <h3>cout << "Hello World" << endl;</h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-safwan--hafeez-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/safwan-hafeez)
   [![Kaggle](https://img.shields.io/badge/Kaggle-safwanhafeez-20BEFF?style=flat-square&logo=kaggle)](https://kaggle.com/safwanhafeez)
   [![Email](https://img.shields.io/badge/Email-safwan.hafeez05%40gmail.com-red?style=flat-square&logo=gmail)](mailto:safwan.hafeez05@gmail.com)
 </div>
 
-<img align="right" alt="coding" width="280" src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-555.gif">
+## -> About Me
+- I just like to code
+- Learning Python when not debugging
 
-## 🚀 About Me
-- 🌱 Currently learning **C# and Java**
-- 💬 Ask me about **Python, Flask, C++**
-- 🤖 Passionate about AI, Machine Learning, and Software Development
-- 🔍 Looking to collaborate on innovative AI projects
-
-## 💻 Tech Stack
+## -> Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,7 +38,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
+## -> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=safwanhafeez&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="safwanhafeez" />
