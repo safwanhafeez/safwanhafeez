@@ -4,7 +4,8 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-safwan--hafeez-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/safwan-hafeez)
   [![Kaggle](https://img.shields.io/badge/Kaggle-safwanhafeez-20BEFF?style=flat-square&logo=kaggle)](https://kaggle.com/safwanhafeez)
-  [[![Email](https://img.shields.io/badge/Email-safwan.hafeez05%40gmail.com-red?style=flat-square&logo=gmail)](https://huggingface.co/safwanhafeez)
+  [![Email](https://img.shields.io/badge/Email-safwan.hafeez05%40gmail.com-red?style=flat-square&logo=gmail)](mailto:safwan.hafeez05@gmail.com)
+  [![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-safwanhafeez-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/safwanhafeez)
 </div>
 
 ## 🚀 About Me
