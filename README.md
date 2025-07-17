@@ -10,7 +10,6 @@
 
 ## 🚀 About Me
 - I just like to code
-- Learning Python when not debugging
 
 ## 💻 Tech Stack
 
