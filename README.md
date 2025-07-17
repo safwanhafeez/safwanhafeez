@@ -8,10 +8,9 @@
   [![Email](https://img.shields.io/badge/Email-safwan.hafeez05%40gmail.com-red?style=flat-square&logo=gmail)](mailto:safwan.hafeez05@gmail.com)
 </div>
 
-## 🚀 About Me
 - I just like to code
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -38,7 +37,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=safwanhafeez&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="safwanhafeez" />
