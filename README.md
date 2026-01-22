@@ -8,7 +8,7 @@
   [![Email](https://img.shields.io/badge/Email-safwan.hafeez05%40gmail.com-red?style=flat-square&logo=gmail)](mailto:safwan.hafeez05@gmail.com)
 </div>
 
-- I just like to code
+I just like to code
 
 ## Tech Stack
 
