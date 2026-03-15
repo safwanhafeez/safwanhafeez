@@ -1,9 +1,9 @@
 <div align="center">
 
 # Hello World
-### I'm Safwan AI Senior @ FAST National University of Computer & Emerging Sciences
+### I'm Safwan | xAI Intern @ NCAI Medical Imaging and Diagnostic Lab | AI Senior @ FAST National University of Computer & Emerging Sciences
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Vision+%7C+Deep+Learning;AI%2FML+Developer;BS+AI+@+FAST+NU)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Vision+%7C+Deep+Learning;AI%2FML+Developer;BS(AI)+@+FAST+NU)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/safwan-hafeez/"><img src="https://img.shields.io/badge/LinkedIn-Safwan_Hafeez-blue?style=flat&logo=linkedin" 
