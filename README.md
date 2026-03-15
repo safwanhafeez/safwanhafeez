@@ -6,13 +6,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Vision+%7C+Deep+Learning;AI%2FML+Developer;BS(AI)+@+FAST+NU)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/safwan-hafeez/"><img src="https://img.shields.io/badge/LinkedIn-Safwan_Hafeez-blue?style=flat&logo=linkedin" 
-  <a href="mailto:ranadas23112002@gmail.com"><img src="https://img.shields.io/badge/Email-safwan.hafeez05@gmail.com-red?style=flat&logo=gmail" alt="Email"/></a>
-  <a href="https://huggingface.co/safwanhafeez">
-    <img src="https://img.shields.io/badge/HuggingFace-your--username-yellow?style=flat&logo=huggingface&logoColor=black"/>
+  <a href="https://www.linkedin.com/in/safwan-hafeez/">
+    <img src="https://img.shields.io/badge/LinkedIn-Safwan_Hafeez-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.kaggle.com/safwanhafeez">
-    <img src="https://img.shields.io/badge/Kaggle-your--username-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
+  <a href="mailto:safwan.hafeez05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-safwan.hafeez05@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
