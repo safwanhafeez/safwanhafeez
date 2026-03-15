@@ -4,7 +4,7 @@
 <div align="center">
 
 # Hello World
-### I'm Safwan AI Senior @ FAST National University of Computer & Emerging Sciences
+### I'm Safwan, AI Senior @ FAST National University of Computer & Emerging Sciences
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Vision+%7C+Deep+Learning;AI%2FML+Developer;BS+AI+@+FAST+NU)](https://git.io/typing-svg)
 
