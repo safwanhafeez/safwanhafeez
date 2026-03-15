@@ -1,10 +1,7 @@
 <div align="center">
-  <img src="https://i.imgur.com/GizQ5of.jpeg" width="800" alt="coding banner">
-</div>
-<div align="center">
 
 # Hello World
-### I'm Safwan, AI Senior @ FAST National University of Computer & Emerging Sciences
+### I'm Safwan AI Senior @ FAST National University of Computer & Emerging Sciences
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Vision+%7C+Deep+Learning;AI%2FML+Developer;BS+AI+@+FAST+NU)](https://git.io/typing-svg)
 
@@ -49,7 +46,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🛠️ Development & Infrastructure
+### Development & Infrastructure
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -63,10 +60,13 @@
 ### Hardware Specifications
 <table>
   <tr>
+    <td><strong>Category</strong></td>
     <td><strong>Component</strong></td>
     <td><strong>Details</strong></td>
   </tr>
+
   <tr>
+    <td rowspan="4">Core System</td>
     <td>Laptop</td>
     <td>Legion 15ARP8</td>
   </tr>
@@ -77,6 +77,25 @@
   <tr>
     <td>GPU</td>
     <td>RTX 4060 Laptop</td>
+  </tr>
+  <tr>
+    <td>OS</td>
+    <td>Windows 11 + WSL</td>
+  </tr>
+
+  <tr>
+    <td rowspan="4">Components</td>
+    <td>RAM</td>
+    <td>16 GB DDR5 5600 MHz</td>
+  </tr>
+
+  <tr>
+    <td>VRAM</td>
+    <td>8 GB GDDR6</td>
+  </tr>
+  <tr>
+    <td>Storage</td>
+    <td>1 TB NVMe SSD</td>
   </tr>
 </table>
 </div>
