@@ -8,7 +8,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/safwan-hafeez/"><img src="https://img.shields.io/badge/LinkedIn-Safwan_Hafeez-blue?style=flat&logo=linkedin" 
   <a href="mailto:ranadas23112002@gmail.com"><img src="https://img.shields.io/badge/Email-safwan.hafeez05@gmail.com-red?style=flat&logo=gmail" alt="Email"/></a>
-
+  <a href="https://huggingface.co/safwanhafeez">
+    <img src="https://img.shields.io/badge/HuggingFace-your--username-yellow?style=flat&logo=huggingface&logoColor=black"/>
+  </a>
+  <a href="https://www.kaggle.com/safwanhafeez">
+    <img src="https://img.shields.io/badge/Kaggle-your--username-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
+  </a>
 </p>
 
 <div align="center">
