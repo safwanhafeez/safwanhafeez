@@ -1,9 +1,4 @@
 <div align="center">
-  <img src="https://i.imgur.com/GizQ5of.jpeg" width="800" alt="coding banner">
-</div>
-<div align="center">
-
-<div align="center">
 
 # Hello World
 ### I'm Safwan | xAI Intern @ NCAI Medical Imaging and Diagnostic Lab | AI Senior @ FAST National University of Computer & Emerging Sciences
@@ -75,7 +70,7 @@
 
   <tr>
     <td rowspan="4">Core System</td>
-    <td>Laptop</td>
+    <td>System</td>
     <td>Legion 15ARP8</td>
   </tr>
   <tr>
@@ -87,23 +82,23 @@
     <td>RTX 4060 Laptop</td>
   </tr>
   <tr>
-    <td>OS</td>
-    <td>Windows 11 + WSL</td>
-  </tr>
-
-  <tr>
-    <td rowspan="4">Components</td>
     <td>RAM</td>
-    <td>16 GB DDR5 5600 MHz</td>
+    <td>16GB 5600 MHz</td>
   </tr>
 
   <tr>
-    <td>VRAM</td>
-    <td>8 GB GDDR6</td>
+    <td rowspan="4">Peripherals</td>
+    <td>Mouse</td>
+    <td>Logitech G102 Light</td>
+  </tr>
+
+  <tr>
+    <td>Keyboard</td>
+    <td>Laptop Keyboard</td>
   </tr>
   <tr>
-    <td>Storage</td>
-    <td>1 TB NVMe SSD</td>
+    <td>Monitor</td>
+    <td>Acer B227Q 22"</td>
   </tr>
 </table>
 </div>
