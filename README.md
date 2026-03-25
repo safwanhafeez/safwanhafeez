@@ -108,3 +108,7 @@
   </tr>
 </table>
 </div>
+
+<p align="center" style="margin-top: 40px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" alt="Footer">
+</p>
