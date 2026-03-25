@@ -20,7 +20,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safwanhafeez&layout=compact&theme=radical" alt="Top Languages" height="165" />
+  [![Safwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=safwanhafeez)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
