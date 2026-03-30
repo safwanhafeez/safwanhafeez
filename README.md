@@ -1,9 +1,4 @@
 <div align="center">
-  <img src="https://i.imgur.com/GizQ5of.jpeg" width="800" alt="coding banner">
-</div>
-<div align="center">
-
-<div align="center">
 
 # Hello World
 ### I'm Safwan | xAI Intern @ NCAI Medical Imaging and Diagnostic Lab | AI Senior @ FAST National University of Computer & Emerging Sciences
