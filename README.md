@@ -61,49 +61,6 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
-### Hardware Specifications
-<table>
-  <tr>
-    <td><strong>Category</strong></td>
-    <td><strong>Component</strong></td>
-    <td><strong>Details</strong></td>
-  </tr>
-
-  <tr>
-    <td rowspan="4">Core System</td>
-    <td>System</td>
-    <td>Legion 15ARP8</td>
-  </tr>
-  <tr>
-    <td>CPU</td>
-    <td>Ryzen 7 7735HS</td>
-  </tr>
-  <tr>
-    <td>GPU</td>
-    <td>RTX 4060 Laptop</td>
-  </tr>
-  <tr>
-    <td>RAM</td>
-    <td>16GB 5600 MHz</td>
-  </tr>
-
-  <tr>
-    <td rowspan="4">Peripherals</td>
-    <td>Mouse</td>
-    <td>Logitech G102 Light</td>
-  </tr>
-
-  <tr>
-    <td>Keyboard</td>
-    <td>Laptop Keyboard</td>
-  </tr>
-  <tr>
-    <td>Monitor</td>
-    <td>Acer B227Q 22"</td>
-  </tr>
-</table>
-</div>
-
 <p align="center" style="margin-top: 40px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" alt="Footer">
 </p>
